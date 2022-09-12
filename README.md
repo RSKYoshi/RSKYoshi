@@ -1,4 +1,4 @@
-<h1 align="center">Aloha! I'm Ryan Yoshimura 🤙</h1>
+<h1 align="center">Aloha! I'm Ryan Yoshimura</h1>
 <h3 align="center">⛰️⛰️🌱🌺A full-stack developer from Hawaii 󠁵󠁳󠁨󠁩󠁿🌊🏄🤙🏼</h3>
 
 

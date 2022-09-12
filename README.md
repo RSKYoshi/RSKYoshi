@@ -4,7 +4,7 @@
 
 🎮🕹️👾 I’m currently working on: [Konami-Code project](https://github.com/RSKYoshi/RSKYoshi.github.io)
 
-🌱 I’m currently learning **Java and Spring**
+🌱 Learning **Java and Spring**
 
 <h3 align="left"><a href="https://linkedin.com/in/ryanskyoshimura">Add me on LinkedIn!</a></h3>
 <p align="left">

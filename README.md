@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Spring**
 
-<h3 align="left">Connect with me: <a href="linkedin.com/in/ryanskyoshimura">Add me on LinkedIn!</a></h3>
+<h3 align="left">Connect with me: <a href="https://linkedin.com/in/ryanskyoshimura">Add me on LinkedIn!</a></h3>
 <p align="left">
 </p>
 

@@ -1,5 +1,5 @@
-<h1 align="center">Aloha! 🤙 I'm Ryan Yoshimura</h1>
-<h3 align="center">A full-stack developer from Hawaii 🌱🌺🏝🏖️🌋󠁵󠁳󠁨󠁩󠁿🌊🐬⛰️🤿🏄🤙🏼</h3>
+<h1 align="center">Aloha! I'm Ryan Yoshimura 🤙</h1>
+<h3 align="center">⛰️⛰️🌱🌺A full-stack developer from Hawaii 󠁵󠁳󠁨󠁩󠁿🌊🏄🤙🏼</h3>
 
 
 - 🔭 I’m currently working on: [Konami-Code project](https://github.com/RSKYoshi/RSKYoshi.github.io)

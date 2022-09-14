@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rskyoshi&" alt="rskyoshi" /></p>
 
-<h3 align="right">Mahalo, and have a nice day! 👋</h3>
+<h3 display="inline-block" align="right">Mahalo, and have a nice day! 👋</h3>

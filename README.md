@@ -2,7 +2,7 @@
 <h3 align="center">⛰️⛰️🌱🌺A full-stack developer from Hawaii 󠁵󠁳󠁨󠁩󠁿🌊🏄🤙🏼</h3>
 
 
-🕹️👾 I’m currently working on: [Konami-Code project](https://github.com/RSKYoshi/RSKYoshi.github.io) <br><br>🎮[click here to try it!](https://rskyoshi.github.io/)
+🕹️👾 I’m currently working on: [Konami-Code project](https://github.com/RSKYoshi/RSKYoshi.github.io) <br><br>🎮&nbsp;[click here to try it!](https://rskyoshi.github.io/)
 
 🌱 Learning **Java and Spring**
 

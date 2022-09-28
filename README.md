@@ -1,12 +1,16 @@
-<h1 align="center">Aloha! I'm Ryan Yoshimura</h1>
-<h3 align="center">⛰️⛰️🌱🌺A full-stack developer from Hawaii 󠁵󠁳󠁨󠁩󠁿🌊🏄🤙🏼</h3>
+<h1 align="center">Aloha! Welcome to tsUmami</h1>
+<h3 align="center">⛰️⛰️🌱🌺Developed by: Ashley Martinez, Matthew Grayson, Miguel Guzman, and Shaquielle Robbins 󠁵󠁳󠁨󠁩󠁿🌊🏄🤙🏼</h3>
 
 
-🕹️👾 I’m currently working on: [Konami-Code project](https://github.com/RSKYoshi/RSKYoshi.github.io) <br><br>🎮&nbsp;[click here to try it!](https://rskyoshi.github.io/konami-code)
+🕹️👾 We are currently working on: [Konami-Code project](https://github.com/RSKYoshi/RSKYoshi.github.io) <br><br>🎮&nbsp;[click here to see it!](https://rskyoshi.github.io/konami-code)
 
-🌱 Learning **Java and Spring**
-
-<h3 align="left"><a href="https://linkedin.com/in/ryanskyoshimura">Add me on LinkedIn!</a></h3>
+🌱 Always learning and applying new techniques.
+<h3 align="left">Add us on LinkedIn!</h3>
+<h3 align="left"><a href="https://www.linkedin.com/in/ashmar32/">Ashley</a></h3>
+<h3 align="left"><a href="https://www.linkedin.com/in/matthewagrayson/">Matthew</a></h3>
+<h3 align="left"><a href="https://www.linkedin.com/in/miguelguzmanwd/">Miguel</a></h3>
+<h3 align="left"><a href="https://linkedin.com/in/ryanskyoshimura">Ryan</a></h3>
+<h3 align="left"><a href="https://www.linkedin.com/in/shaquiellerobbins/">Shaquielle</a></h3>
 <p align="left">
 </p>
 
